@@ -11,7 +11,7 @@
   **Full Stack Projects**
 
 - 💬 Ask me about <br>
-  **Tech Stuff...**
+  **Tech Stuff....**
 
 <h3 align="left">🌐Connect with me:</h3>
 <p align="left">
