@@ -2,13 +2,13 @@
 <h3 align="left">💫About Me:</h3>
 
 - 🔭 I’m currently working on <br>
-  **Full Stack Web Application Projects**
+  **Full Stack Web Application Projects...**
 
 - 📚 I’m currently learning <br>
-  **Mern Stack,React.js,Node.js and other Technical stuff**
+  **Mern Stack,React.js,Node.js and other Technical stuff...**
 
 - 🫱🏻‍🫲🏻 I’m looking to collaborate on <br>
-  **Full Stack Projects**
+  **Full Stack Projects...**
 
 - 💬 Ask me about <br>
   **Tech Stuff....**
