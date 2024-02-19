@@ -12,8 +12,11 @@
 
 - 💬 Ask me about <br>
   **Tech Stuff....**
+
+- Do remember 💡<br>
+  **"Embrace the timeless truth: It's never too late to learn anything...."**
  
-  <p><strong>"Embrace the timeless truth: It's never too late to learn anything"</strong></p>
+  
 
 <h3 align="left">🌐Connect with me:</h3>
 <p align="left">
