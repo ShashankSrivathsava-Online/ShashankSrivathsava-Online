@@ -17,7 +17,7 @@ I thrive on challenges and continuous learning📚
   **Tech Stuff....**
   
 - Do remember 💡✨<br>
-  **"Embrace the timeless truth:- It's never too late to learn anything.....📚👨🏻‍💻🎯✨"**
+  **"Embrace the timeless truth:- It's never too late to learn anything....📚👨🏻‍💻🎯✨"**
  
   
 
