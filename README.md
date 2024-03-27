@@ -14,7 +14,7 @@ I thrive on challenges and continuous learning📚
   **Full Stack Projects**
 
 - 💬 Ask me about <br>
-  **Tech Stuff....**
+  **Tech Stuff......**
   
 - Do remember 💡✨<br>
   **"Embrace the timeless truth:- It's never too late to learn anything....📚👨🏻‍💻🎯✨"**
