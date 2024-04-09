@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Shashank Srivathsava......!
+<h1 align="left">Hi 👋, I'm Shashank Srivathsava....!
 !</h1>
 <h3 align="left">💫About Me:</h3>
 
