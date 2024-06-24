@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Shashank Srivathsava...!</h1>
-<p>Present working on "Tailwind" </p>
+<p>Present working on "JavaScript" </p>
 <h3 align="left">💫About Me:</h3>
 
 👨🏻‍💻A passionate software developer and tech enthusiast. My coding journey is filled with curiosity and a love for building things. 💻 Currently exploring the realms of 'HTML', 'CSS', & 'JAVA SCRIPT'.
