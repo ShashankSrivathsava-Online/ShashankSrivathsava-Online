@@ -1,30 +1,11 @@
 <h1 align="left">Hi 👋, I'm Shashank Srivathsava...!</h1>
-<p>Present working on "JavaScript" </p>
-<h3 align="left">💫About Me:</h3>
-
-👨🏻‍💻A passionate software developer and tech enthusiast. My coding journey is filled with curiosity and a love for building things. 💻 Currently exploring the realms of 'HTML', 'CSS', & 'JAVA SCRIPT'.
-I thrive on challenges and continuous learning📚
-
-- 🔭 I’m currently working on <br>
-  **Full Stack Web Application Projects**
-
-- 📚 I’m currently learning <br>
-  **Mern Stack,React.js,Node.js and other Technical stuff**
-
-- 🫱🏻‍🫲🏻 I’m looking to collaborate on <br>
-  **Full Stack Projects**
-
-- 💬 Ask me about <br>
-  **Tech Stuff....**
   
 - Do remember 💡✨<br>
-  **"Embrace the timeless truth:- It's never too late to learn anything....📚👨🏻‍💻🎯✨"**
- 
-  
+  **"Embrace the timeless truth; It's never too late to learn anything....📚👨🏻‍💻🎯✨"**
 
 <h3 align="left">🌐Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shashank-srivathsava-lade" target="blank">
+<a href="https://www.linkedin.com/in/shashank-srivathsava-lade-" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shashank-srivathsava- 
   lade" height="30" width="40" />
 </a>
@@ -36,8 +17,7 @@ I thrive on challenges and continuous learning📚
 </a>
 <a href="https://twitter.com/its_me_ssv" target="blank">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_me_ssv" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23333586/shashank-srivathsava-lade" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shashank srivathsava lade" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">👨🏻‍💻Tech Stack:</h3>
